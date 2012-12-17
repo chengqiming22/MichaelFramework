@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl'?>
+<!--user XML-->
+<localization UpdateDate="2012-3-18 23:53:17">
+  <mdisysmenu_restore>恢复</mdisysmenu_restore>
+  <mdisysmenu_move>移动</mdisysmenu_move>
+  <mdisysmenu_size>大小</mdisysmenu_size>
+  <mdisysmenu_minimize>最小化</mdisysmenu_minimize>
+  <mdisysmenu_maximize>最大化</mdisysmenu_maximize>
+  <mdisysmenu_close>关闭</mdisysmenu_close>
+  <mdisysmenu_next>下一个</mdisysmenu_next>
+  <navPaneCollapseTooltip>关闭</navPaneCollapseTooltip>
+  <QatDialogCaption>自定义快速访问工具栏</QatDialogCaption>
+  <QatDialogPlacementCheckbox>在功能区下方显示快速访问工具栏 (&amp;P)</QatDialogPlacementCheckbox>
+  <QatDialogCategoriesLabel>选择命令(&amp;C):</QatDialogCategoriesLabel>
+  <QatDialogRemoveButton>删除(&amp;R)</QatDialogRemoveButton>
+  <QatDialogAddButton>添加(&amp;A)&gt;&gt;</QatDialogAddButton>
+  <QatDialogOkButton>确定</QatDialogOkButton>
+  <QatDialogCancelButton>取消</QatDialogCancelButton>
+  <QatRemoveItemText>从快速访问工具栏删除 (&amp;R)</QatRemoveItemText>
+  <QatAddItemText>添加到快速访问工具栏 (&amp;A)</QatAddItemText>
+  <QatCustomizeText>自定义快速访问工具栏 (&amp;C)...</QatCustomizeText>
+  <QatCustomizeMenuLabel>&lt;b&gt;自定义快速访问工具栏&lt;/b&gt;</QatCustomizeMenuLabel>
+  <QatPlaceBelowRibbonText>在功能区下方显示快速访问工具栏 (&amp;P)</QatPlaceBelowRibbonText>
+  <QatPlaceAboveRibbonText>在功能区上方显示快速访问工具栏 (&amp;P)</QatPlaceAboveRibbonText>
+  <MinimizeRibbonText>功能区最小化 (&amp;N)</MinimizeRibbonText>
+  <MaximizeRibbonText>功能区最大化 (&amp;M)</MaximizeRibbonText>
+  <navbar_showmorebuttons>显示更多按钮</navbar_showmorebuttons>
+  <navbar_showfewerbuttons>显示更少按钮</navbar_showfewerbuttons>
+  <navbar_navpaneoptions>导航面板选项</navbar_navpaneoptions>
+  <cust_mnu_tooltip>工具栏选项</cust_mnu_tooltip>
+  <cust_mnu_addremove>添加或删除按钮(&amp;A)</cust_mnu_addremove>
+  <cust_mnu_cust>自定义...</cust_mnu_cust>
+  <cust_mnu_reset>重置工具栏</cust_mnu_reset>
+  <qat_customizetooltip>自定义快速访问工具栏</qat_customizetooltip>
+  <mdisystt_close>关闭</mdisystt_close>
+  <navbar_navpanedialogcancel>取消</navbar_navpanedialogcancel>
+  <navbar_navpanedialogmovedown>下移</navbar_navpanedialogmovedown>
+  <navbar_navpanedialogmoveup>上移</navbar_navpanedialogmoveup>
+  <navbar_navpanedialogok>确定</navbar_navpanedialogok>
+  <navbar_navpanedialogreset>重置</navbar_navpanedialogreset>
+  <navbar_navpanedialogtitle>导航面板选项</navbar_navpanedialogtitle>
+  <navbar_navpanedialoglistlabel>按此顺序显示按钮</navbar_navpanedialoglistlabel>
+  <sys_morebuttons>其他按钮</sys_morebuttons>
+  <mdisystt_restore>恢复</mdisystt_restore>
+  <mdisystt_minimize>最小化</mdisystt_minimize>
+  <colorpicker_themecolorslabel>
+  </colorpicker_themecolorslabel>
+  <colorpicker_standardcolorslabel>
+  </colorpicker_standardcolorslabel>
+  <colorpicker_morecolors>
+  </colorpicker_morecolors>
+  <colorpickerdialog_okbutton>
+  </colorpickerdialog_okbutton>
+  <colorpickerdialog_cancelbutton>
+  </colorpickerdialog_cancelbutton>
+  <colorpickerdialog_newcolorlabel>
+  </colorpickerdialog_newcolorlabel>
+  <colorpickerdialog_currentcolorlabel>
+  </colorpickerdialog_currentcolorlabel>
+  <colorpickerdialog_standardcolorslabel>
+  </colorpickerdialog_standardcolorslabel>
+  <colorpickerdialog_customcolorslabel>
+  </colorpickerdialog_customcolorslabel>
+  <colorpickerdialog_greenlabel>
+  </colorpickerdialog_greenlabel>
+  <colorpickerdialog_bluelabel>
+  </colorpickerdialog_bluelabel>
+  <colorpickerdialog_redlabel>
+  </colorpickerdialog_redlabel>
+  <colorpickerdialog_tabstandard>
+  </colorpickerdialog_tabstandard>
+  <colorpickerdialog_tabcustom>
+  </colorpickerdialog_tabcustom>
+  <colorpickerdialog_caption>
+  </colorpickerdialog_caption>
+  <colorpickerdialog_colormodellabel>
+  </colorpickerdialog_colormodellabel>
+  <colorpickerdialog_rgblabel>
+  </colorpickerdialog_rgblabel>
+</localization>

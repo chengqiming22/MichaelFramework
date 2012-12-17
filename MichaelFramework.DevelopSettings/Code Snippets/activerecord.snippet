@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CodeSnippet Format="1.0.0" xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+  <Header>
+    <Title>activerecord</Title>
+    <Author>程啟明</Author>
+    <Shortcut>ar</Shortcut>
+    <Description>定义一个ActiveRecord实体类</Description>
+    <SnippetTypes>
+      <SnippetType>SurroundsWith</SnippetType>
+      <SnippetType>Expansion</SnippetType>
+    </SnippetTypes>
+  </Header>
+  <Snippet>
+    <Declarations>
+      <Literal>
+        <ID>tableName</ID>
+        <Default>T_</Default>
+      </Literal>
+      <Literal>
+        <ID>className</ID>
+        <Default>ClassName</Default>
+      </Literal>
+    </Declarations>
+    <Code Language="csharp">
+      <![CDATA[ [ActiveRecord("$tableName$")]
+    public class $className$ : ObjectBase<$className$>
+    {
+       $selected$$end$
+    }]]>
+    </Code>
+  </Snippet>
+</CodeSnippet>
